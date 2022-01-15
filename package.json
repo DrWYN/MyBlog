@@ -21,7 +21,7 @@
     "express-session": "^1.16.1",
     "express-winston": "^3.1.0",
     "istanbul": "^0.4.5",
-    "marked": "^0.6.2",
+    "marked": "^4.0.10",
     "moment": "^2.24.0",
     "mongolass": "^4.4.2",
     "mongoose": "^5.5.10",
